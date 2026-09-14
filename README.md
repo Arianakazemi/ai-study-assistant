@@ -41,5 +41,3 @@ Models Used
 - google/gemma-4-31b-it
 - nvidia/nemotron-3-super-120b
 - openai/gpt-oss-120b
-
-Made with ❤️ by Ariana Kazemi
